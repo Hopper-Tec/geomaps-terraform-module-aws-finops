@@ -1,4 +1,4 @@
-# Copilot Instructions — terraform-module-aws-finops
+# Copilot Instructions — geomaps-terraform-module-aws-finops
 
 ## Team
 
@@ -6,7 +6,7 @@ This repository is owned by the *Engineering* team at GeoMaps. [AWS Organization
 
 ## About This Repository
 
-Reusable Terraform modules for AWS FinOps — cost anomaly detection, budgets, and BCM data exports. Consumed by [terragrunt-live-aws](https://github.com/Hopper-Tec/terragrunt-live-aws) via module source.
+Reusable Terraform modules for AWS FinOps — cost anomaly detection, budgets, and BCM data exports. Consumed by [terragrunt-live-aws](https://github.com/Hopper-Tec/geomaps-terragrunt-live-aws) via module source.
 
 *Primary stack:* Terraform.
 
